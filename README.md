@@ -4,6 +4,7 @@ This is a mock website created to showcase my ability to recreate the Yelp websi
 
 ### Link to project: https://sam-casseus-dev4.netlify.com/
 
+![screencapture-sam-casseus-dev4-netlify-2019-03-01-18_09_49](https://user-images.githubusercontent.com/47072462/53671618-3f150000-3c4d-11e9-9850-1e6608730125.png)
 
 ## How It's Made
 
